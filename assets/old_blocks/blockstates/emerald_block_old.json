@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "old_blocks:block/emerald_block_old"
+    }
+  }
+}

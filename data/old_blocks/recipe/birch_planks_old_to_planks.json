@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "old_blocks:birch_planks_old",
+  "result": {
+    "count": 1,
+    "id": "old_blocks:birch_planks_old"
+  }
+}

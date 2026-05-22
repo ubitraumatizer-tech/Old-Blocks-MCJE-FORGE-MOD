@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "old_blocks:oak_planks_old",
+    "old_blocks:oak_planks_stairs_old",
+    "old_blocks:oak_planks_slab_old",
+    "old_blocks:acacia_planks_old" ,
+    "old_blocks:acacia_planks_stairs_old",
+    "old_blocks:acacia_planks_slab_old",
+    "old_blocks:spruce_planks_old",
+    "old_blocks:spruce_planks_stairs_old",
+    "old_blocks:spruce_planks_slab_old",
+    "old_blocks:birch_planks_old",
+    "old_blocks:birch_planks_stairs_old",
+    "old_blocks:birch_planks_slab_old",
+    "old_blocks:jungle_planks_old",
+    "old_blocks:jungle_planks_stairs_old",
+    "old_blocks:jungle_planks_slab_old",
+    "old_blocks:dark_oak_planks_old",
+    "old_blocks:dark_oak_planks_stairs_old",
+    "old_blocks:dark_oak_planks_slab_old"
+  ]
+}

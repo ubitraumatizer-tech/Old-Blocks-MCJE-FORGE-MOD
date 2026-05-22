@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "old_blocks:block/spruce_planks_slab_old" },
+    "type=top":    { "model": "old_blocks:block/spruce_planks_slab_old_top" },
+    "type=double": { "model": "old_blocks:block/spruce_planks_old" }
+  }
+}

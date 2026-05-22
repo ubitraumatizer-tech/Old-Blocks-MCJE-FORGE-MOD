@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "old_blocks:block/spruce_planks_old"
+  }
+}

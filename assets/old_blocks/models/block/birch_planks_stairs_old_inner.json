@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "old_blocks:block/birch_planks_old",
+    "top": "old_blocks:block/birch_planks_old",
+    "side": "old_blocks:block/birch_planks_old",
+    "particle": "old_blocks:block/birch_planks_old"
+  }
+}
